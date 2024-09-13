@@ -214,7 +214,7 @@ export const Jobs = () => {
 	return (
 		<div>
 			<div className="flex items-center justify-between">
-				<Title level={3}>Products</Title>
+				<Title level={3}>Jobs</Title>
 				<Button
 					type={"primary"}
 					onClick={() => {
